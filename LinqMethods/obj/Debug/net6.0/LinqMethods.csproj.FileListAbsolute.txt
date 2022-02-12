@@ -1,0 +1,15 @@
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.exe
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.deps.json
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.runtimeconfig.json
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.dll
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\bin\Debug\net6.0\ref\LinqMethods.dll
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.pdb
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.csproj.AssemblyReference.cache
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.AssemblyInfoInputs.cache
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.AssemblyInfo.cs
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.csproj.CoreCompileInputs.cache
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.dll
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\ref\LinqMethods.dll
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.pdb
+C:\C#\Fundamentos de c# (H de Leo)\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.genruntimeconfig.cache
